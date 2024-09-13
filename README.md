@@ -66,7 +66,12 @@ You can obtain the necessary API keys from the Serper and IBM Cloud websites.
 
 ## 📝 **Results**
 
-*Insert results and findings here.*
+You can find the results from the four agents in the [Results Directory](https://github.com/Jesteban247/AI-Driven-Gym-and-Nutrition-Workflow-with-CrewAI-and-IBM-Watson/tree/main/Results). The directory contains four text files detailing the outputs from each agent:
+
+1. **Researcher Agent Results**
+2. **Trainer Agent Results**
+3. **Nutrition Researcher Agent Results**
+4. **Nutrition Planner Agent Results**
 
 ---
 
