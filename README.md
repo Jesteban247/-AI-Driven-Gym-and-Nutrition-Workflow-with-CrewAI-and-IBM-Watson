@@ -1,4 +1,4 @@
-# AI-Driven Gym and Nutrition Workflow with CrewAI and IBM Watson
+# 🏋🏽🔥💪🏼 AI-Driven Gym and Nutrition Workflow with CrewAI and IBM Watson
 
 Welcome to the **AI-Driven Gym and Nutrition Workflow** project! As someone who is passionate about fitness and nutrition, I created this workflow to leverage advanced AI technologies to optimize gym routines and dietary plans. This repository demonstrates how to build an intelligent system using CrewAI, CrewAI Tools, and IBM Watson’s language models.
 
